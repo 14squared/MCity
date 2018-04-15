@@ -1,0 +1,42 @@
+{"cars": [
+ {
+  "acceleration": 0.030,
+  "reverseSpeed": 0.2,
+  "id": "car_wood",
+  "speed": 0.7,
+  "fluids": [{
+   "efficiency": 0.3,
+   "fluid": "bio_diesel"
+  }]
+ },
+ {
+  "acceleration": 0.030,
+  "reverseSpeed": 0.2,
+  "id": "car_big_wood",
+  "speed": 0.7,
+  "fluids": [{
+   "efficiency": 0.2,
+   "fluid": "bio_diesel"
+  }]
+ },
+ {
+  "acceleration": 0.025,
+  "reverseSpeed": 0.2,
+  "id": "car_transporter",
+  "speed": 0.5,
+  "fluids": [{
+   "efficiency": 0.10,
+   "fluid": "bio_diesel"
+  }]
+ },
+ {
+  "acceleration": 0.035,
+  "reverseSpeed": 0.2,
+  "id": "car_sport",
+  "speed": 1.0,
+  "fluids": [{
+   "efficiency": 0.10,
+   "fluid": "bio_diesel"
+  }]
+ }
+]}
