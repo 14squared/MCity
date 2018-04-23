@@ -1,1 +1,1 @@
-java -Xmx1G -Xms1G -jar forge.jar
+java -Xmx4G -Xms1G -jar forge.jar
